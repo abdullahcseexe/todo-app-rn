@@ -160,3 +160,4 @@ export const createSettingsStyles = (colors: ColorScheme) => {
 
   return styles;
 };
+
